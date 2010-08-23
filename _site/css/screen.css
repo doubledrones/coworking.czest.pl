@@ -1,0 +1,35 @@
+/*
+	=====================================
+	project: Distinctive
+	author:  Luka Cvrk (www.solucija.com)
+	-------------------------------------
+	2009. Solucija
+	=====================================
+*/
+
+*{margin:0;padding:0}:focus,:active {outline:0}img{border: 0}
+
+body { font: 1em Arial, Tahoma, Verdana; background: #fff url(../images/bg.gif) repeat-x; color: #555; }
+
+a { text-decoration: none; color: #B20F0F; }
+
+h1 { font-size: 2.4em; font-weight: normal; color: #000; margin-top: 10px }
+
+h2 { font-size: 1.2em; line-height: 1.5em; }
+
+h3 { font-size: 1.2em; background: #B00A0A url(../images/redbg.gif) repeat-x left bottom; padding: 6px 7px; color: #fff; font-weight: normal; margin: 20px 0 15px; float: left; }
+
+p { clear: both; line-height: 1.64em; }
+
+li { margin-left: 20px }
+
+#content { width: 970px; margin: 0 auto; }
+
+#top { color: #ccc; padding: 6px 20px 0; font-size: .84em; text-align: right; }
+
+#top p, #top ul, #top li { display: inline; }
+#top li { margin-left: 0em; }
+#top .tweet_time { display: none; }
+#top a { color: #ccc; }
+
+#footer { clear: both; font-size: .84em; border-top: 1px solid #ddd; padding: 10px 0 0; margin-top: 20px; }
