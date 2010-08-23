@@ -31,12 +31,12 @@ Jako coworker będziesz miał dostęp do biura 24h/dobę.
 
 My już tak długo nie pracujemy.
 
-Aby się spotkać najlepiej napisz maila na adres: [coworking@doubledrones.com](coworking@doubledrones.com)
+Aby się spotkać najlepiej napisz maila na adres: [coworking@doubledrones.com](mailto:coworking@doubledrones.com)
 
 lub bezpośrednia do któregoś z nas:
 
- * Marcin Nowicki: [pr0d1r2@gmail.com](pr0d1r2+coworking@gmail.com), twitter: [@pr0d1r2](http://twitter.com/pr0d1r2)
- * Marcin Michałowski: [h13ronim@gmail.com](h13ronim+coworking@gmail.com), twitter [@h13ronim](http://twitter.com/h13ronim)
+ * Marcin Nowicki: [pr0d1r2@gmail.com](mailto:pr0d1r2+coworking@gmail.com), twitter: [@pr0d1r2](http://twitter.com/pr0d1r2)
+ * Marcin Michałowski: [h13ronim@gmail.com](mailto:h13ronim+coworking@gmail.com), twitter [@h13ronim](http://twitter.com/h13ronim)
 
 ### Kto za tym stoi?
 
