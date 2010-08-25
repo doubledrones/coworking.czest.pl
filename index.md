@@ -5,15 +5,15 @@ layout: default
 
 # Coworking w Częstochowie
 
-## Wspólna praca w miłej atmosferze.
+## wspólna praca w miłej atmosferze
 
 ### Dlaczego?
 
-Jesteś freelancerem. Wykonujesz wolny zawód.
-Masz dość pracy w domu, w kawiarni, po znajomych, na ulicy.
+Jesteś freelancerem? Wykonujesz wolny zawód?
+Masz dość pracy w domu, w kawiarni, po znajomych, na ulicy?
 Szukasz miejsca do pracy, ale nie chcesz wynajmować biura.
 
-Oto propozycja dla Ciebie. Nasze biuro coworkingu.
+Oto propozycja dla Ciebie: nasze biuro coworkingu.
 
 Mamy wolne **002** miejsca.
 
@@ -29,9 +29,9 @@ Zobacz na [Google Maps](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode
 
 Jako coworker będziesz miał dostęp do biura 24h/dobę.
 
-My już tak długo nie pracujemy.
+My już tak długo nie pracujemy ;)
 
-Aby się spotkać najlepiej napisz maila na adres: [coworking@doubledrones.com](mailto:coworking@doubledrones.com)
+Aby omówić szczegóły najlepiej napisz do nas maila na adres: [coworking@doubledrones.com](mailto:coworking@doubledrones.com)
 
 lub bezpośrednia do któregoś z nas:
 
@@ -42,13 +42,14 @@ lub bezpośrednia do któregoś z nas:
 
 Freelancerzy, Ruby and Rails developerzy, Mac userzy, Linux hackerzy, GTD holicy... więcej na stronie [DoubleDrones](http://doubledrones.com).
 
-Zapraszamy wszystkich którzy chcą pracować w atmosferze coworkingu.
-Bardzo ciekawi jesteśmy wspólnej pracy z osobami np. nie związanymi z branżą informatyczną.
+Zapraszamy wszystkich chcących pracować w atmosferze coworkingu.
+Bardzo ciekawi jesteśmy wspólnej pracy z ludźmi, którzy lubią to co robią.
+Niekoniecznie muszą być związanymi z branżą informatyczną.
 
 ### I jeżeli jeszcze nie wiesz co to jest Coworking...
 
 Pozwól, że przejmiemy na chwilę Twój komputer i [zagooglamy razem z Tobą](http://lmgtfy.com/?q=coworking) ;)
 
 <div id="footer">
-  (c) Doubledrones 2010, ostatnia aktualizacja 21.08.2010
+  (c) Doubledrones 2010, ostatnia aktualizacja 25.08.2010
 </div>
