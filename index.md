@@ -21,7 +21,7 @@ Mamy wolne **002** miejsca.
 
 ul. Łódzka 8/12 lok. J
 
-42-200 Częstochowa
+42-202 Częstochowa
 
 Zobacz na [Google Maps](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=%C5%81%C3%B3dzka+8%2F12,+Cz%C4%99stochowa&sll=37.0625,-95.677068&sspn=49.043149,92.109375&ie=UTF8&hq=&hnear=%C5%81%C3%B3dzka+8%2F12,+Cz%C4%99stochowa,+%C5%9Al%C4%85skie,+Poland&z=16)
 
