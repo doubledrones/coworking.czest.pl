@@ -15,7 +15,7 @@ Szukasz miejsca do pracy, ale nie chcesz wynajmować biura.
 
 Oto propozycja dla Ciebie: nasze biuro coworkingu.
 
-Mamy wolne **002** miejsca.
+Mamy wolne **000** miejsc.
 
 ### Gdzie?
 
